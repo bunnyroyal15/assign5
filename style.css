@@ -1,0 +1,29 @@
+.box{
+    text-align: center;
+    border: 5px solid black;
+    width: 278px;
+    background-color:yellow;
+    border-radius:25px;
+    /* padding: 20px; */
+}
+.img{
+    height: 270px;
+    width: 270px;
+    border-radius: 28px;
+}
+
+.card{
+    font-size: 30px;
+    font-style:italic;
+}
+.para{
+    text-align: left;
+}
+.btn{
+    font-size: 20px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin: 15px;
+    padding: 5px;
+    cursor: pointer;
+}
